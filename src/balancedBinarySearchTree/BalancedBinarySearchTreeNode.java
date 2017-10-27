@@ -1,4 +1,4 @@
-package balancdBinarySearchTree;
+package balancedBinarySearchTree;
 
 /**
  * @author Spencer Collins

@@ -1,4 +1,4 @@
-package balancdBinarySearchTree;
+package balancedBinarySearchTree;
 
 import java.util.Comparator;
 import java.util.Scanner;
